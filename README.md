@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Niti Rajesh</h1>
+<h1 align="center">Hi 👋, I'm Nitin Rajesh</h1>
 <h3 align="center">I am CSE sophomore and a Frontend Developer</h3>
 
 - 🔭 I’m currently working on [Developers Mate](https://github.com/nitin094-hub/DevelopersMate)
