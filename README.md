@@ -4,7 +4,7 @@
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
 
-- 🔭 I’m currently working on [Developers Mate](https://github.com/nitin094-hub/DevelopersMate)
+- 🔭 I’m currently working on [Developers Mate](https://github.com/dhriti987/DevelopersMate)
 
 - 🌱 I’m currently learning **NextJS**
 
